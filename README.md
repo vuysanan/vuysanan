@@ -1,9 +1,11 @@
 <h1>Hi, I'm Vuyisanani</h1>
 
 <h2>👨‍💻 Personal Projects</h2>
+
 - [Rock, Paper, Scissors](https://github.com/vuysanan/1st-Project-Rock-Paper-Scissors-)
 
 <h2>📄 Certifications</h2>
+
 - [Check repository](https://github.com/vuysanan/Certifications)
 
 <h2>Connect with me</h2>
