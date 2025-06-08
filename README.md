@@ -20,4 +20,4 @@
 
 
 [instagram]: https://www.instagram.com/vuysanan
-[linkedin]: https://linkedin.com/in/vuyisananimbebe
+[linkedin]: https://www.linkedin.com/in/vuyisanani-mbebe-91b01920a/
