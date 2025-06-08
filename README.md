@@ -4,6 +4,7 @@
 - [Rock, Paper, Scissors](https://github.com/vuysanan/1st-Project-Rock-Paper-Scissors-)
 
 <h2>📄 Certifications</h2>
+- [Check repository](https://github.com/vuysanan/Certifications)
 
 <h2>Connect with me</h2>
 
@@ -13,18 +14,3 @@
 
 [instagram]: https://www.instagram.com/vuysanan
 [linkedin]: https://linkedin.com/in/vuyisananimbebe
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
