@@ -9,8 +9,7 @@
 
 - [Rock, Paper, Scissors](https://github.com/vuysanan/1st-Project-Rock-Paper-Scissors-)
 
-- [GUI for Rock, Paper, Scissors]
-  (https://github.com/vuysanan/GUI-for-project-1)
+- [GUI for Rock, Paper, Scissors](https://github.com/vuysanan/GUI-for-project-1)
 
 <h2>📄 Certifications</h2>
 
