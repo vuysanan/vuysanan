@@ -8,7 +8,7 @@
 <h2>👨‍💻 Personal Projects</h2>
 
 - [Rock, Paper, Scissors](https://github.com/vuysanan/1st-Project-Rock-Paper-Scissors-)
-- [Test Password Strength](https://github.com/vuysanan/Project-2---Test-Password-Strength)
+- [Test Password Strength](https://github.com/vuysanan/2nd-Project---Test-Password-Strength)
 
 <h2>📄 Certifications</h2>
 
