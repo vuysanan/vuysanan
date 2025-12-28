@@ -9,6 +9,8 @@
 - [Rock, Paper, Scissors](https://github.com/vuysanan/1st-Project-Rock-Paper-Scissors-)
 - [Test Password Strength](https://github.com/vuysanan/2nd-Project---Test-Password-Strength)
 - [Bug Tracker](https://github.com/vuysanan/BugTracker---Console)
+- [Typing Companion](https://github.com/vuysanan/Typing-Companion)
+- [HealthCare File Management](https://github.com/vuysanan/HealthCare-File-Management)
 
 <h2>📄 Certifications</h2>
 
