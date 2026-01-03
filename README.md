@@ -23,4 +23,4 @@
 
 
 [instagram]: https://www.instagram.com/vuysanan
-[linkedin]: https://www.linkedin.com/in/vuyisanani-mbebe-91b01920a/
+[linkedin]: https://www.linkedin.com/in/vuyisananimbebe
