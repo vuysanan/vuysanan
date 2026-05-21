@@ -2,15 +2,16 @@
 
 <h2>💻 Tech Stack</h2>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 <h2>👨‍💻 Personal Projects</h2>
 
-- [Rock, Paper, Scissors](https://github.com/vuysanan/1st-Project-Rock-Paper-Scissors-)
-- [Test Password Strength](https://github.com/vuysanan/2nd-Project---Test-Password-Strength)
-- [Bug Tracker](https://github.com/vuysanan/BugTracker---Console)
-- [Typing Companion](https://github.com/vuysanan/Typing-Companion)
+- [Chess Analytics](https://github.com/vuysanan/Chess-Analytics)
 - [HealthCare File Management](https://github.com/vuysanan/HealthCare-File-Management)
+- [Typing Companion](https://github.com/vuysanan/Typing-Companion)
+- [Bug Tracker](https://github.com/vuysanan/BugTracker---Console)
+- [Test Password Strength](https://github.com/vuysanan/2nd-Project---Test-Password-Strength)
+- [Rock, Paper, Scissors](https://github.com/vuysanan/1st-Project-Rock-Paper-Scissors-)
 
 <h2>📄 Certifications</h2>
 
