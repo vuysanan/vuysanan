@@ -10,9 +10,9 @@
 - [Shopper's Delight](https://github.com/vuysanan/Online-Shopping-System)
 - [HealthCare File Management](https://github.com/vuysanan/HealthCare-File-Management)
 - [Typing Companion](https://github.com/vuysanan/Typing-Companion)
-- [Bug Tracker](https://github.com/vuysanan/BugTracker---Console)
-- [Test Password Strength](https://github.com/vuysanan/2nd-Project---Test-Password-Strength)
-- [Rock, Paper, Scissors](https://github.com/vuysanan/1st-Project-Rock-Paper-Scissors-)
+- [Bug Tracker](https://github.com/vuysanan/Bug=Tracker)
+- [Test Password Strength](https://github.com/vuysanan/Generate-and-Test-Password-Strength)
+- [Rock, Paper, Scissors](https://github.com/vuysanan/1st-Project-Rock-Paper-Scissors)
 
 <h2>📄 Certifications</h2>
 
