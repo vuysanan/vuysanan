@@ -7,6 +7,7 @@
 <h2>👨‍💻 Personal Projects</h2>
 
 - [Chess Analytics](https://github.com/vuysanan/Chess-Analytics)
+- [Shopper's Delight](https://github.com/vuysanan/Online-Shopping-System)
 - [HealthCare File Management](https://github.com/vuysanan/HealthCare-File-Management)
 - [Typing Companion](https://github.com/vuysanan/Typing-Companion)
 - [Bug Tracker](https://github.com/vuysanan/BugTracker---Console)
