@@ -6,6 +6,7 @@
 
 <h2>👨‍💻 Personal Projects</h2>
 
+- [The Recipe Book](https://github.com/vuysanan/The-Recipe-Book)
 - [Chess Analytics](https://github.com/vuysanan/Chess-Analytics)
 - [Shopper's Delight](https://github.com/vuysanan/Online-Shopping-System)
 - [HealthCare File Management](https://github.com/vuysanan/HealthCare-File-Management)
