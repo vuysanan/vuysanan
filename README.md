@@ -4,6 +4,10 @@
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
+<h2>FlyRank AI Backend Engineering Internship Assignments</h2>
+
+- [CRUD API](https://github.com/vuysanan/CRUD-API)
+
 <h2>Personal Projects</h2>
 
 - [Web Scraping FIFA Rankings](https://github.com/vuysanan/Web-Scraping-FIFA-Rankings)
