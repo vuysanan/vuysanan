@@ -6,7 +6,7 @@
 
 <h2>FlyRank AI Backend Engineering Internship Assignments</h2>
 
-- [CRUD API](https://github.com/vuysanan/CRUD-API)
+- [CRUD API with SQLite Database](https://github.com/vuysanan/CRUD-API)
 
 <h2>Personal Projects</h2>
 
