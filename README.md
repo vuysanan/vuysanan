@@ -6,6 +6,7 @@
 
 <h2>FlyRank AI Backend Engineering Internship Assignments</h2>
 
+- [Scraper](https://github.com/vuysanan/Scraper)
 - [Secure API with Supabase Auth](https://github.com/vuysanan/Authentication)
 - [CRUD API with Postgres and Docker](https://github.com/vuysanan/CRUD-API)
 
