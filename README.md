@@ -15,6 +15,10 @@
 - [Secure API with Supabase Auth](https://github.com/vuysanan/Authentication)
 - [CRUD API with Postgres and Docker](https://github.com/vuysanan/CRUD-API)
 
+<h2>Nelson Mandela University School of IT Hackathon</h2>
+
+- [First Connect: a first-year student orientation app](https://first-connect-gilt.vercel.app/welcome)
+
 <h2>Personal Projects</h2>
 
 - [Web Scraping FIFA Rankings](https://github.com/vuysanan/Web-Scraping-FIFA-Rankings)
