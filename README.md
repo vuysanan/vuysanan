@@ -4,6 +4,14 @@
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
+<h2>Currently Working On</h2>
+
+- [Archivist](https://music-archivist.vercel.app): a music archive to find song samples and credits
+
+<h2>Professional Work/Collab</h2>
+
+- [AD Group of Companies](https://adgroup.co.za)
+
 <h2>CodeWrkx Introduction to Cloud Engineering(AWS) Course</h2>
 
 - [Claim-Zero](https://github.com/vuysanan/claim-zero)
@@ -15,16 +23,17 @@
 - [Secure API with Supabase Auth](https://github.com/vuysanan/Authentication)
 - [CRUD API with Postgres and Docker](https://github.com/vuysanan/CRUD-API)
 
-<h2>Nelson Mandela University School of IT Hackathon</h2>
+<h2>Nelson Mandela University Hackathon & Semester Projects</h2>
 
-- [First Connect: a first-year student orientation app](https://first-connect-gilt.vercel.app/welcome)
+- [Justice Law Attorneys](https://github.com/katlegostuart/justice-law-system): a law firm management system
+- [First Connect](https://first-connect-gilt.vercel.app/welcome): a first-year student orientation app
+- [Shopper's Delight](https://github.com/vuysanan/Online-Shopping-System): an online shopping system figma prototype
 
 <h2>Personal Projects</h2>
 
 - [Web Scraping FIFA Rankings](https://github.com/vuysanan/Web-Scraping-FIFA-Rankings)
 - [The Recipe Book](https://github.com/vuysanan/The-Recipe-Book)
 - [Chess Analytics](https://github.com/vuysanan/Chess-Analytics)
-- [Shopper's Delight](https://github.com/vuysanan/Online-Shopping-System)
 - [HealthCare File Management](https://github.com/vuysanan/HealthCare-File-Management)
 - [Typing Companion](https://github.com/vuysanan/Typing-Companion)
 - [Bug Tracker](https://github.com/vuysanan/Bug-Tracker)
